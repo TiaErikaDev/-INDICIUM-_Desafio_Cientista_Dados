@@ -16,7 +16,7 @@ Analise_Exploratoria_dados[INDICIUM].ipynb - Análise dos dados feita no google 
 Modelagem_RandomForest[INDICIUM].ipynb - Modelagem de predição dos dados feita no google colab
 
 
-predicted - E o resultado final do modelo em uma planilha(csv)
+predicted - É o resultado final do modelo em uma planilha(csv)
 
 
 Linkedin: https://www.linkedin.com/in/tiaerikadev/
